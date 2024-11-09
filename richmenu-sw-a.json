@@ -4,8 +4,8 @@
         "height": 843
     },
     "selected": true,
-    "name": "Rich Menu 2",
-    "chatBarText": "Bulletin",
+    "name": "Rich Menu A",
+    "chatBarText": "menu A",
     "areas": [
         {
             "bounds": {
@@ -16,7 +16,7 @@
             },
             "action": {
                 "type": "richmenuswitch",
-                "richMenuAliasId": "richmenu-a",
+                "richMenuAliasId": "richmenu-b",
                 "data": "richmenu-changed-to-b"
             }
         }
