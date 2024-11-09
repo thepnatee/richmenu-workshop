@@ -1,0 +1,131 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "Rich Menu 1",
+    "chatBarText": "Click",
+    "areas": [
+      {
+        "bounds": {
+          "x": 91,
+          "y": 128,
+          "width": 657,
+          "height": 585
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 1"
+        }
+      },
+      {
+        "bounds": {
+          "x": 908,
+          "y": 131,
+          "width": 655,
+          "height": 579
+        },
+        "action": {
+          "type": "message",
+          "text": "Action 2"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1780,
+          "y": 140,
+          "width": 634,
+          "height": 564
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 3"
+        }
+      },
+      {
+        "bounds": {
+          "x": 194,
+          "y": 989,
+          "width": 440,
+          "height": 369
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 4"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1054,
+          "y": 984,
+          "width": 427,
+          "height": 382
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 5"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1876,
+          "y": 1008,
+          "width": 396,
+          "height": 358
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 6"
+        }
+      },
+      {
+        "bounds": {
+          "x": 723,
+          "y": 769,
+          "width": 997,
+          "height": 129
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 7"
+        }
+      },
+      {
+        "bounds": {
+          "x": 210,
+          "y": 1468,
+          "width": 357,
+          "height": 94
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 8"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1090,
+          "y": 1466,
+          "width": 392,
+          "height": 115
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 9"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1891,
+          "y": 1485,
+          "width": 393,
+          "height": 107
+        },
+        "action": {
+          "type": "message",
+          "text": "Area 10"
+        }
+      }
+    ]
+  }
